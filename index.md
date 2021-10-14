@@ -10,3 +10,11 @@
 ### Vordefinierte Funktionen
 
 * [Funktionen_Vorlage.ods](https://raw.githubusercontent.com/Josef-Friedrich/informatik/main/Funktionen_Vorlage.ods)
+
+### Datenfluss-Diagramm
+
+* [Tunnel_Vorlage.ods](https://raw.githubusercontent.com/Josef-Friedrich/informatik/main/Tunnel_Vorlage.ods)
+
+### Logische Funktionen
+
+* [Zeugins_Vorlage.ods](https://raw.githubusercontent.com/Josef-Friedrich/informatik/main/Zeugnis_Vorlage.ods)
