@@ -25,3 +25,7 @@ github_url: https://raw.githubusercontent.com/Josef-Friedrich/informatik/main
 #### Logische Funktionen
 
 * [Zeugins_Vorlage.ods]({{ page.github_url }}/09/10_Tabelle/50_Logische-Funktionen/Zeugnis_Vorlage.ods)
+
+# 22.10.2021
+
+* [Smartphone-PIN_Vorlage.ods]({{ page.github_url }}/09/10_Tabelle/40_Vordefinierte-Funktionen/10_Uebung-Smartphone-PIN/Smartphone-PIN_Vorlage.ods)
