@@ -1,8 +1,13 @@
-## Materialien für den Informatik-Unterricht
+---
+title: Materialien für den Informatik-Unterricht
+github_url: https://raw.githubusercontent.com/Josef-Friedrich/informatik/main
+---
+
+## 9. Jahrgangsstufe
 
 ### Relative und absolute Zellbezüge
 
-* [Stundenlohn_Vorlage.ods](https://raw.githubusercontent.com/Josef-Friedrich/informatik/main/Stundenlohn_Vorlage.ods)
+* [Stundenlohn_Vorlage.ods]({{ page.github_url }}/Stundenlohn_Vorlage.ods)
 * [Ein-mal-Eins_Vorlage.ods](https://raw.githubusercontent.com/Josef-Friedrich/informatik/main/Ein-mal-Eins_Vorlage.ods)
 * [Fibonacci_Vorlage.ods](https://raw.githubusercontent.com/Josef-Friedrich/informatik/main/Fibonacci_Vorlage.ods)
 * [Heron-Verfahren_Vorlage.ods](https://raw.githubusercontent.com/Josef-Friedrich/informatik/main/Heron-Verfahren_Vorlage.ods)
