@@ -5,21 +5,23 @@ github_url: https://raw.githubusercontent.com/Josef-Friedrich/informatik/main
 
 ## 9. Jahrgangsstufe
 
-### Relative und absolute Zellbezüge
+### Tabellenkalkulation
 
-* [Stundenlohn_Vorlage.ods]({{ page.github_url }}/Stundenlohn_Vorlage.ods)
-* [Ein-mal-Eins_Vorlage.ods](https://raw.githubusercontent.com/Josef-Friedrich/informatik/main/Ein-mal-Eins_Vorlage.ods)
-* [Fibonacci_Vorlage.ods](https://raw.githubusercontent.com/Josef-Friedrich/informatik/main/Fibonacci_Vorlage.ods)
-* [Heron-Verfahren_Vorlage.ods](https://raw.githubusercontent.com/Josef-Friedrich/informatik/main/Heron-Verfahren_Vorlage.ods)
+#### Relative und absolute Zellbezüge
 
-### Vordefinierte Funktionen
+* [Stundenlohn_Vorlage.ods]({{ page.github_url }}/09/10_Tabelle/20_Zellbezuege/Stundenlohn_Vorlage.ods)
+* [Ein-mal-Eins_Vorlage.ods]({{ page.github_url }}/09/10_Tabelle/20_Zellbezuege/Ein-mal-Eins_Vorlage.ods)
+* [Fibonacci_Vorlage.ods]({{ page.github_url }}/09/10_Tabelle/20_Zellbezuege/Fibonacci_Vorlage.ods)
+* [Heron-Verfahren_Vorlage.ods]({{ page.github_url }}/09/10_Tabelle/20_Zellbezuege/Heron-Verfahren_Vorlage.ods)
 
-* [Funktionen_Vorlage.ods](https://raw.githubusercontent.com/Josef-Friedrich/informatik/main/Funktionen_Vorlage.ods)
+#### Vordefinierte Funktionen
 
-### Datenfluss-Diagramm
+* [Funktionen_Vorlage.ods]({{ page.github_url }}/09/10_Tabelle/40_Vordefinierte-Funktionen/Funktionen_Vorlage.ods)
 
-* [Tunnel_Vorlage.ods](https://raw.githubusercontent.com/Josef-Friedrich/informatik/main/Tunnel_Vorlage.ods)
+#### Datenfluss-Diagramm
 
-### Logische Funktionen
+* [Tunnel_Vorlage.ods]({{ page.github_url }}/09/10_Tabelle/30_Datenfluss/10_Warnowtunnel/Tunnel_Vorlage.ods)
 
-* [Zeugins_Vorlage.ods](https://raw.githubusercontent.com/Josef-Friedrich/informatik/main/Zeugnis_Vorlage.ods)
+#### Logische Funktionen
+
+* [Zeugins_Vorlage.ods]({{ page.github_url }}/09/10_Tabelle/50_Logische-Funktionen/Zeugnis_Vorlage.ods)
