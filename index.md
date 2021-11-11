@@ -3,6 +3,11 @@ title: Materialien für den Informatik-Unterricht
 github_url: https://raw.githubusercontent.com/Josef-Friedrich/informatik/main
 ---
 
+## Aktuell
+
+* [Freundeskreis.odb]({{ page.github_url }}/09/20_Datenbank/20_Projektion/Freundeskreis.odb)
+* [Land.odb]({{ page.github_url }}/09/20_Datenbank/20_Projektion/Land.odb)
+
 ## 9. Jahrgangsstufe
 
 ### Tabellenkalkulation
@@ -27,10 +32,10 @@ github_url: https://raw.githubusercontent.com/Josef-Friedrich/informatik/main
 
 * [Zeugins_Vorlage.ods]({{ page.github_url }}/09/10_Tabelle/50_Logische-Funktionen/Zeugnis_Vorlage.ods)
 
+#### Umgang mit großen Tabellen
+
+* [Schulbibliothek.ods]({{ page.github_url }}/09/10_Tabelle/60_Grosse-Tabelle/Schulbibliothek_Vorlage.ods)
+
 ### Datenbanken
 
 * [Mitglied.odb]({{ page.github_url }}/09/20_Datenbank/10_Daten-speichern/Mitglied.odb)
-
-# 29.10.2021
-
-* [Schulbibliothek.ods]({{ page.github_url }}/09/10_Tabelle/60_Grosse-Tabelle/Schulbibliothek_Vorlage.ods)
