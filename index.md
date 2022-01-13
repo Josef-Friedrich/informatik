@@ -5,11 +5,8 @@ github_url: https://raw.githubusercontent.com/Josef-Friedrich/informatik/main
 
 ## Aktuell
 
-* [Weitsprung.odb]({{ page.github_url }}/09/20_Datenbank/40_Aggregatfunktionen/Weitsprung.odb)
-* [Land.odb]({{ page.github_url }}/09/20_Datenbank/20_Projektion/Land.odb)
-* [Mond.odb]({{ page.github_url }}/09/20_Datenbank/30_Selektion/Mond.odb)
 * [Video.odb]({{ page.github_url }}/09/20_Datenbank/30_Selektion/Video.odb)
-
+* [Terra.odb]({{ page.github_url }}/09/20_Datenbank/80_Uebung-Terra/Terra.odb)
 
 ## 9. Jahrgangsstufe
 
@@ -59,3 +56,7 @@ github_url: https://raw.githubusercontent.com/Josef-Friedrich/informatik/main
 #### Aggregatfunktionen und Gruppierung
 
 * [Weitsprung.odb]({{ page.github_url }}/09/20_Datenbank/40_Aggregatfunktionen/Weitsprung.odb)
+
+#### Übungen
+
+* [Terra.odb]({{ page.github_url }}/09/20_Datenbank/80_Uebung-Terra/Terra.odb)
