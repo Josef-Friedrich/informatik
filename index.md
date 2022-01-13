@@ -7,6 +7,7 @@ github_url: https://raw.githubusercontent.com/Josef-Friedrich/informatik/main
 
 * [Video.odb]({{ page.github_url }}/09/20_Datenbank/30_Selektion/Video.odb)
 * [Terra.odb]({{ page.github_url }}/09/20_Datenbank/80_Uebung-Terra/Terra.odb)
+* [SQL-Island](https://sql-island.informatik.uni-kl.de) (https://sql-island.informatik.uni-kl.de)
 
 ## 9. Jahrgangsstufe
 
@@ -60,3 +61,4 @@ github_url: https://raw.githubusercontent.com/Josef-Friedrich/informatik/main
 #### Übungen
 
 * [Terra.odb]({{ page.github_url }}/09/20_Datenbank/80_Uebung-Terra/Terra.odb)
+* [SQL-Island](https://sql-island.informatik.uni-kl.de) (https://sql-island.informatik.uni-kl.de)
