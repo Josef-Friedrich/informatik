@@ -5,7 +5,10 @@ github_url: https://raw.githubusercontent.com/Josef-Friedrich/informatik/main
 
 ## Aktuell
 
-* [Video.odb]({{ page.github_url }}/09/20_Datenbank/30_Selektion/Video.odb)
+* [Handball.odb]({{ page.github_url }}/09/20_Datenbank/50_Operatoren/Handball.odb)
+* [Lauf100m.odb]({{ page.github_url }}/09/20_Datenbank/50_Operatoren/Lauf100m.odb)
+* [Mannschaft.odb]({{ page.github_url }}/09/20_Datenbank/50_Operatoren/Mannschaft.odb)
+* [Papiersorte.odb]({{ page.github_url }}/09/20_Datenbank/50_Operatoren/Papiersorte.odb)
 * [Terra.odb]({{ page.github_url }}/09/20_Datenbank/80_Uebung-Terra/Terra.odb)
 * [SQL-Island](https://sql-island.informatik.uni-kl.de) (https://sql-island.informatik.uni-kl.de)
 
@@ -57,6 +60,13 @@ github_url: https://raw.githubusercontent.com/Josef-Friedrich/informatik/main
 #### Aggregatfunktionen und Gruppierung
 
 * [Weitsprung.odb]({{ page.github_url }}/09/20_Datenbank/40_Aggregatfunktionen/Weitsprung.odb)
+
+#### Operatoren
+
+* [Handball.odb]({{ page.github_url }}/09/20_Datenbank/50_Operatoren/Handball.odb)
+* [Lauf100m.odb]({{ page.github_url }}/09/20_Datenbank/50_Operatoren/Lauf100m.odb)
+* [Mannschaft.odb]({{ page.github_url }}/09/20_Datenbank/50_Operatoren/Mannschaft.odb)
+* [Papiersorte.odb]({{ page.github_url }}/09/20_Datenbank/50_Operatoren/Papiersorte.odb)
 
 #### Übungen
 
