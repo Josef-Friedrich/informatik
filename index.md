@@ -5,6 +5,7 @@ github_url: https://raw.githubusercontent.com/Josef-Friedrich/informatik/main
 
 ## Aktuell
 
+* [Wahl.odb]({{ page.github_url }}/09/20_Datenbank/50_Operatoren/Wahl.odb)
 * [Handball.odb]({{ page.github_url }}/09/20_Datenbank/50_Operatoren/Handball.odb)
 * [Lauf100m.odb]({{ page.github_url }}/09/20_Datenbank/50_Operatoren/Lauf100m.odb)
 * [Mannschaft.odb]({{ page.github_url }}/09/20_Datenbank/50_Operatoren/Mannschaft.odb)
@@ -67,6 +68,7 @@ github_url: https://raw.githubusercontent.com/Josef-Friedrich/informatik/main
 * [Lauf100m.odb]({{ page.github_url }}/09/20_Datenbank/50_Operatoren/Lauf100m.odb)
 * [Mannschaft.odb]({{ page.github_url }}/09/20_Datenbank/50_Operatoren/Mannschaft.odb)
 * [Papiersorte.odb]({{ page.github_url }}/09/20_Datenbank/50_Operatoren/Papiersorte.odb)
+* [Wahl.odb]({{ page.github_url }}/09/20_Datenbank/50_Operatoren/Wahl.odb)
 
 #### Übungen
 
