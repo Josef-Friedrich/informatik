@@ -5,13 +5,7 @@ github_url: https://raw.githubusercontent.com/Josef-Friedrich/informatik/main
 
 ## Aktuell
 
-* [Wahl.odb]({{ page.github_url }}/09/20_Datenbank/50_Operatoren/Wahl.odb)
-* [Handball.odb]({{ page.github_url }}/09/20_Datenbank/50_Operatoren/Handball.odb)
-* [Lauf100m.odb]({{ page.github_url }}/09/20_Datenbank/50_Operatoren/Lauf100m.odb)
-* [Mannschaft.odb]({{ page.github_url }}/09/20_Datenbank/50_Operatoren/Mannschaft.odb)
-* [Papiersorte.odb]({{ page.github_url }}/09/20_Datenbank/50_Operatoren/Papiersorte.odb)
-* [Terra.odb]({{ page.github_url }}/09/20_Datenbank/80_Uebung-Terra/Terra.odb)
-* [SQL-Island](https://sql-island.informatik.uni-kl.de) (https://sql-island.informatik.uni-kl.de)
+* [rakete.gfar]({{ page.github_url }}/09/30_Objektorientierung/rakete.gfar)
 
 ## 9. Jahrgangsstufe
 
@@ -74,3 +68,7 @@ github_url: https://raw.githubusercontent.com/Josef-Friedrich/informatik/main
 
 * [Terra.odb]({{ page.github_url }}/09/20_Datenbank/80_Uebung-Terra/Terra.odb)
 * [SQL-Island](https://sql-island.informatik.uni-kl.de) (https://sql-island.informatik.uni-kl.de)
+
+### Objektorientierung
+
+* [rakete.gfar]({{ page.github_url }}/09/30_Objektorientierung/rakete.gfar)
