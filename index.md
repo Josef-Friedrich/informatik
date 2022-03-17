@@ -5,7 +5,8 @@ github_url: https://raw.githubusercontent.com/Josef-Friedrich/informatik/main
 
 ## Aktuell
 
-* [rakete.gfar]({{ page.github_url }}/09/30_Objektorientierung/rakete.gfar)
+* [Klassenzimmer.zip]({{ page.github_url }}/09/30_Objektorientierung/Klassenzimmer.zip)
+* [Klassenzimmer.gfar]({{ page.github_url }}/09/30_Objektorientierung/Klassenzimmer.gfar)
 
 ## 9. Jahrgangsstufe
 
