@@ -5,9 +5,9 @@ github_url: https://raw.githubusercontent.com/Josef-Friedrich/informatik/main
 
 ## Aktuell
 
-* [Klassenzimmer.zip]({{ page.github_url }}/09/30_Objektorientierung/Klassenzimmer.zip)
 * [pacman_1_gespenst.zip]({{ page.github_url }}/09/30_Objektorientierung/pacman_1_gespenst.zip)
 * [pacman_4_gespenster.zip]({{ page.github_url }}/09/30_Objektorientierung/pacman_4_gespenster.zip)
+* [schildkroete.zip]({{ page.github_url }}/09/30_Objektorientierung/schildkroete.zip)
 
 ## 9. Jahrgangsstufe
 
