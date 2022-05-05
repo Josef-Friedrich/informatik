@@ -5,9 +5,8 @@ github_url: https://raw.githubusercontent.com/Josef-Friedrich/informatik/main
 
 ## Aktuell
 
-* [pacman_1_gespenst.zip]({{ page.github_url }}/09/30_Objektorientierung/pacman_1_gespenst.zip)
-* [pacman_4_gespenster.zip]({{ page.github_url }}/09/30_Objektorientierung/pacman_4_gespenster.zip)
-* [schildkroete.zip]({{ page.github_url }}/09/30_Objektorientierung/schildkroete.zip)
+* [tanz.zip]({{ page.github_url }}/09/30_Objektorientierung/tanz.zip)
+* [fussball.zip]({{ page.github_url }}/09/30_Objektorientierung/fussball.zip)
 
 ## 9. Jahrgangsstufe
 
@@ -74,3 +73,6 @@ github_url: https://raw.githubusercontent.com/Josef-Friedrich/informatik/main
 ### Objektorientierung
 
 * [rakete.gfar]({{ page.github_url }}/09/30_Objektorientierung/rakete.gfar)
+* [pacman_1_gespenst.zip]({{ page.github_url }}/09/30_Objektorientierung/pacman_1_gespenst.zip)
+* [pacman_4_gespenster.zip]({{ page.github_url }}/09/30_Objektorientierung/pacman_4_gespenster.zip)
+* [schildkroete.zip]({{ page.github_url }}/09/30_Objektorientierung/schildkroete.zip)
