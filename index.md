@@ -5,8 +5,7 @@ github_url: https://raw.githubusercontent.com/Josef-Friedrich/informatik/main
 
 ## Aktuell
 
-* [tanz.zip]({{ page.github_url }}/09/30_Objektorientierung/tanz.zip)
-* [fussball.zip]({{ page.github_url }}/09/30_Objektorientierung/fussball.zip)
+* [ball.zip]({{ page.github_url }}/09/30_Objektorientierung/ball.zip)
 
 ## 9. Jahrgangsstufe
 
@@ -76,3 +75,5 @@ github_url: https://raw.githubusercontent.com/Josef-Friedrich/informatik/main
 * [pacman_1_gespenst.zip]({{ page.github_url }}/09/30_Objektorientierung/pacman_1_gespenst.zip)
 * [pacman_4_gespenster.zip]({{ page.github_url }}/09/30_Objektorientierung/pacman_4_gespenster.zip)
 * [schildkroete.zip]({{ page.github_url }}/09/30_Objektorientierung/schildkroete.zip)
+* [tanz.zip]({{ page.github_url }}/09/30_Objektorientierung/tanz.zip)
+* [fussball.zip]({{ page.github_url }}/09/30_Objektorientierung/fussball.zip)
