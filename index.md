@@ -5,7 +5,7 @@ github_url: https://raw.githubusercontent.com/Josef-Friedrich/informatik/main
 
 ## Aktuell
 
-* [ball.zip]({{ page.github_url }}/09/30_Objektorientierung/ball.zip)
+* [ball2.zip]({{ page.github_url }}/09/30_Objektorientierung/ball2.zip)
 
 ## 9. Jahrgangsstufe
 
