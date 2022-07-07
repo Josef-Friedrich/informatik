@@ -5,6 +5,7 @@ github_url: https://raw.githubusercontent.com/Josef-Friedrich/informatik/main
 
 ## Aktuell
 
+* [tiervorstellung.zip]({{ page.github_url }}/09/37_Vererbung/tiervorstellung.zip)
 * [lausjagd.zip]({{ page.github_url }}/09/35_Algorithmen/lausjagd.zip)
 
 ## 9. Jahrgangsstufe
@@ -83,3 +84,8 @@ github_url: https://raw.githubusercontent.com/Josef-Friedrich/informatik/main
 ### Algorithmen
 
 * [plattformer.zip]({{ page.github_url }}/09/35_Algorithmen/plattformer.zip)
+* [lausjagd.zip]({{ page.github_url }}/09/35_Algorithmen/lausjagd.zip)
+
+### Vererbung
+
+* [tiervorstellung.zip]({{ page.github_url }}/09/37_Vererbung/tiervorstellung.zip)
